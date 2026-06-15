@@ -1,0 +1,2 @@
+- dependencias instaladas
+- Navegación entre páginas (React Router)
