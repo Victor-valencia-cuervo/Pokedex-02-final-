@@ -73,3 +73,4 @@ export default defineConfig([
   },
 ])
 ```
+# Pokedex-01
