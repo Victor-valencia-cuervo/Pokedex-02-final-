@@ -2,9 +2,6 @@
 
 ### Explora el universo Pokémon con una experiencia visual moderna, rápida e interactiva.
 
-🌐 **Demo en vivo:**  
-👉 https://victor-valencia-cuervo.github.io/Pokedex-02-final-/
-
 ---
 
 <p align="center">
