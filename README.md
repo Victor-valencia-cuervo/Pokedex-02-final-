@@ -46,3 +46,10 @@ https://pokeapi.co/
 Prueba la aplicación aquí:
 
 👉 https://victor-valencia-cuervo.github.io/Pokedex-02-final-/
+
+# 📸 Vista Previa
+
+<img width="1365" height="721" alt="image" src="https://github.com/user-attachments/assets/47368094-0b46-447c-9671-de64cc08e207" />
+
+<img width="257" height="303" alt="image" src="https://github.com/user-attachments/assets/9b66bf99-4a81-4d14-a6a7-e3ee3f0fde68" />
+<img width="1365" height="629" alt="image" src="https://github.com/user-attachments/assets/276ff7da-fc47-414d-9936-efb3b1d084fd" />
